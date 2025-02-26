@@ -1,0 +1,26 @@
+{ "now" : 1736197891.4,
+  "messages" : 1509281,
+  "aircraft" : [
+    {"hex":"4b1a2c","squawk":"5345","flight":"EZS45VR ","lat":41.292580,"lon":2.122671,"nucp":7,"seen_pos":0.0,"altitude":1600,"vert_rate":1536,"track":96,"speed":155,"category":"A3","mlat":[],"tisb":[],"messages":101,"seen":0.0,"rssi":-2.7},
+    {"hex":"440631","squawk":"7664","flight":"EJU83VP ","altitude":11850,"vert_rate":-1088,"track":197,"speed":320,"mlat":[],"tisb":[],"messages":20,"seen":10.7,"rssi":-5.5},
+    {"hex":"48c22b","squawk":"5527","flight":"RYR41SE ","lat":41.287720,"lon":2.195923,"nucp":7,"seen_pos":0.1,"altitude":3625,"vert_rate":1152,"track":98,"speed":180,"category":"A3","mlat":[],"tisb":[],"messages":553,"seen":0.1,"rssi":-2.0},
+    {"hex":"000000","mlat":[],"tisb":[],"messages":2,"seen":97.9,"rssi":-12.9},
+    {"hex":"4ca73a","altitude":38000,"mlat":[],"tisb":[],"messages":18,"seen":54.8,"rssi":-9.1},
+    {"hex":"45213e","mlat":[],"tisb":[],"messages":4,"seen":29.3,"rssi":-12.8},
+    {"hex":"0a0077","mlat":[],"tisb":[],"messages":303,"seen":55.4,"rssi":-9.3},
+    {"hex":"4ca892","vert_rate":-64,"track":64,"speed":466,"mlat":[],"tisb":[],"messages":18,"seen":28.8,"rssi":-8.1},
+    {"hex":"4ca9c1","squawk":"1423","flight":"RYR151V ","lat":41.285318,"lon":2.417741,"nucp":7,"seen_pos":0.6,"altitude":10475,"vert_rate":1984,"track":71,"speed":300,"category":"A3","mlat":[],"tisb":[],"messages":1900,"seen":0.1,"rssi":-4.3},
+    {"hex":"4ca854","mlat":[],"tisb":[],"messages":1827,"seen":18.2,"rssi":-8.8},
+    {"hex":"06a0a8","squawk":"0666","flight":"QTR85K  ","lat":41.029094,"lon":2.223358,"nucp":7,"seen_pos":0.7,"altitude":7025,"vert_rate":-2048,"track":296,"speed":229,"category":"A5","mlat":[],"tisb":[],"messages":500,"seen":0.2,"rssi":-4.7},
+    {"hex":"4baa87","squawk":"4024","flight":"THY2GQ  ","lat":41.284286,"lon":2.321594,"nucp":7,"seen_pos":0.4,"altitude":35000,"vert_rate":0,"track":279,"speed":411,"category":"A3","mlat":[],"tisb":[],"messages":2112,"seen":0.1,"rssi":-2.6},
+    {"hex":"4ca855","flight":"RYR51YH ","lat":41.058189,"lon":2.145642,"nucp":7,"seen_pos":65.4,"altitude":6150,"mlat":[],"tisb":[],"messages":149,"seen":28.7,"rssi":-8.2},
+    {"hex":"345691","squawk":"4055","flight":"IBE06TL ","lat":41.052277,"lon":2.140773,"nucp":7,"seen_pos":1.7,"altitude":37025,"vert_rate":64,"track":267,"speed":428,"category":"A3","mlat":[],"tisb":[],"messages":6620,"seen":0.1,"rssi":-8.3},
+    {"hex":"4d242e","mlat":[],"tisb":[],"messages":1929,"seen":80.9,"rssi":-6.6},
+    {"hex":"4d242b","mlat":[],"tisb":[],"messages":205,"seen":172.7,"rssi":-6.4},
+    {"hex":"4cac88","squawk":"5575","flight":"RYR584K ","lat":41.439240,"lon":2.489152,"nucp":7,"seen_pos":7.2,"altitude":36000,"vert_rate":0,"track":65,"speed":477,"category":"A3","mlat":[],"tisb":[],"messages":2829,"seen":3.5,"rssi":-6.0},
+    {"hex":"452138","mlat":[],"tisb":[],"messages":5475,"seen":63.4,"rssi":-8.5},
+    {"hex":"344216","mlat":[],"tisb":[],"messages":1854,"seen":164.3,"rssi":-6.9},
+    {"hex":"345642","mlat":[],"tisb":[],"messages":3384,"seen":190.1,"rssi":-8.3},
+    {"hex":"4ca84e","mlat":[],"tisb":[],"messages":1744,"seen":177.9,"rssi":-6.3}
+  ]
+}
